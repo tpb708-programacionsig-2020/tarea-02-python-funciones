@@ -6,7 +6,7 @@ La fecha límite de entrega es el **jueves 3 de setiembre de 2020, antes de las 
 
 Debe enviarle al profesor por correo electrónico el archivo con el programa en Python resultante (ej. ```imc.py```). **Debe ser un programa que pueda ejecutarse desde la línea de comandos del sistema operativo (i.e. un archivo con extensión .py), no un *notebook* de Jupyter.**
 
-**ESTA TAREA ES INDIVIDUAL**
+**ESTA TAREA ES PARA REALIZARSE EN FORMA INDIVIDUAL**.
 
 ### Desarrollo
 En esta tarea, desarrollará un programa en Python que calculará el índice de masa corporal (IMC) de una persona, con base en los datos de su estatura y peso, los cuales serán provistos por el usuario a través del teclado y la pantalla. El programa verificará la calidad de los datos, calculará el IMC y le comunicará al usuario su valor y, además, si es considerado bajo, medio o alto.
