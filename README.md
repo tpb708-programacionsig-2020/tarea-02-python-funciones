@@ -9,7 +9,7 @@ Debe enviarle al profesor por correo electrónico el archivo con el programa en 
 **ESTA TAREA ES PARA REALIZARSE EN FORMA INDIVIDUAL**.
 
 ### Objetivos
-Aplicar varios conceptos de programación en Python cubiertos en clase, como tipos de datos, variables, condicionales, ciclos y funciones, entre otros.
+Aplicar varios conceptos de programación en Python cubiertos en clase como tipos de datos, variables, condicionales, ciclos y funciones, entre otros.
 
 ### Desarrollo
 Debe implementar un programa en Python para calcular el índice de masa corporal (IMC) de una persona, con base en los datos de su estatura y peso, los cuales serán provistos por el usuario a través del teclado y la pantalla. El programa debe verificar la calidad de los datos, calcular el IMC y comunicarle al usuario su valor y, además, si es considerado bajo, medio o alto.
