@@ -8,10 +8,13 @@ Debe enviarle al profesor por correo electrónico el archivo con el programa en 
 
 **ESTA TAREA ES PARA REALIZARSE EN FORMA INDIVIDUAL**.
 
-### Desarrollo
-En esta tarea, desarrollará un programa en Python que calculará el índice de masa corporal (IMC) de una persona, con base en los datos de su estatura y peso, los cuales serán provistos por el usuario a través del teclado y la pantalla. El programa verificará la calidad de los datos, calculará el IMC y le comunicará al usuario su valor y, además, si es considerado bajo, medio o alto.
+### Objetivos
+En esta tarea, aplicará varios conceptos de programación en Python cubiertos en clase, como variables, condicionales, ciclos y funciones, entre otros.
 
-El programa debe verificar que tanto el peso como la estatura sean mayores que cero y solicitarle de nuevo estos valores al usuario si no se cumple esta condición, hasta que proporcione un valor válido. Si el usuario ingresa un valor que no puede tratarse como un número, el programa debe alertar al usuario de esta situación y finalizar.
+### Desarrollo
+Debe implementar un programa en Python para calcular el índice de masa corporal (IMC) de una persona, con base en los datos de su estatura y peso, los cuales serán provistos por el usuario a través del teclado y la pantalla. El programa debe verificar la calidad de los datos, calcular el IMC y comunicarle al usuario su valor y, además, si es considerado bajo, medio o alto.
+
+El programa debe verificar que tanto el peso como la estatura sean mayores que cero y solicitarle de nuevo estos valores al usuario si no se cumple esta condición, hasta que proporcione un valor válido. Si el usuario ingresa un valor que no puede tratarse como un número decimal, el programa debe alertar al usuario de esta situación y finalizar.
 
 Para calcular el IMC y determinar si es bajo, normal o alto, debe programar dos funciones a las cuales llamará desde el cuerpo principal del programa:
 - ```imc()```
