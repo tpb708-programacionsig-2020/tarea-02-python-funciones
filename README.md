@@ -35,4 +35,4 @@ Procesamiento
 5 (25%). Implementación de la función ```interpretacion_imc()```.
 
 Salida  
-6 (10%). Impresión de los resultados del IMC y si es considerado bajo, normal o alto.
+6 (10%). Impresión del valor del IMC y si es considerado bajo, normal o alto.
