@@ -2,7 +2,7 @@
 ## Tarea 02
 
 ### Fecha de entrega y entregables
-La fecha límite de entrega es el **jueves 3 de setiembre de 2020, antes de las 5:00 p.m.**.
+La fecha y hora límite para la entrega es **jueves 3 de setiembre de 2020 a las 5:00 p.m.**.
 
 Debe enviarle al profesor por correo electrónico el archivo con el programa en Python resultante (ej. ```imc.py```). **Debe ser un programa que pueda ejecutarse desde la línea de comandos del sistema operativo (i.e. un archivo con extensión .py), no un *notebook* de Jupyter.**
 
