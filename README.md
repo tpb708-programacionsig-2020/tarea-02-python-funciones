@@ -25,14 +25,14 @@ Para calcular el IMC y determinar si es bajo, normal o alto, debe programar dos 
         - "Alto" si el IMC es mayor o igual que 25.
 
 ### Calificación
-Entrada  
+**Entrada**  
 1 (10%). Lectura de los valores de estatura y peso.  
 2 (15%). Verificación de que los valores de peso y estatura sean mayores que cero.  
 3 (15%). Verificación de que los valores de peso y estatura puedan ser manejados como números decimales.  
 
-Procesamiento  
+**Procesamiento**  
 4 (25%). Implementación de la funcion ```imc()```.  
 5 (25%). Implementación de la función ```interpretacion_imc()```.
 
-Salida  
+**Salida**  
 6 (10%). Impresión del valor del IMC y si es considerado bajo, normal o alto.
