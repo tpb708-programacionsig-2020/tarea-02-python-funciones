@@ -11,7 +11,7 @@ El programa debe verificar que tanto el peso como la estatura sean mayores que c
 
 Para calcular el IMC y determinar si es bajo, normal o alto, debe programar dos funciones:
 - ```imc()```
-    - Recibe como argumentos dos números decimales correspondientes al peso (en kilogramos, por ejemplo 70) y a la estatura (en metros, por ejemplo 1.75) de una persona.
+    - Recibe como argumentos dos números decimales correspondientes al peso (en kilogramos, por ejemplo 70.5) y a la estatura (en metros, por ejemplo 1.75) de una persona.
     - Retorna un número decimal correspondiente al valor del IMC, con base en el cáculo especificado en [https://www.diabetes.ca/diabetes-and-you/healthy-living-resources/weight-management/body-mass-index-bmi-calculator](https://www.diabetes.ca/diabetes-and-you/healthy-living-resources/weight-management/body-mass-index-bmi-calculator). 
 - ```interpretacion_imc()```:
     - Recibe como argumento un número decimal correspondiente al IMC de una persona.
