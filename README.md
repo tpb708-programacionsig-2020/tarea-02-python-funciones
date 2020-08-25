@@ -14,7 +14,7 @@ Aplicar varios conceptos de programación en Python cubiertos en clase como tipo
 ### Desarrollo
 Debe implementar un programa en Python para calcular el índice de masa corporal (IMC) de una persona, con base en los datos de su estatura y peso, los cuales serán provistos por el usuario a través del teclado y la pantalla. El programa debe verificar la calidad de los datos, calcular el IMC y comunicarle al usuario su valor y, además, si es considerado bajo, medio o alto.
 
-El programa debe verificar que tanto el peso como la estatura sean mayores que cero y solicitarle de nuevo estos valores al usuario si no se cumple esta condición, hasta que proporcione un valor válido. Si el usuario ingresa un valor que no puede tratarse como un número decimal, el programa debe alertar al usuario de esta situación y finalizar.
+El programa debe verificar que tanto el peso como la estatura sean mayores que cero y solicitarle de nuevo estos datos al usuario si alguno no cumple esta condición, hasta que proporcione un valor válido. Si el usuario ingresa un valor que no puede tratarse como un número decimal, el programa debe alertar al usuario de esta situación y finalizar.
 
 Para calcular el IMC y determinar si es bajo, normal o alto, debe programar dos funciones a las cuales llamará desde el cuerpo principal del programa:
 - ```calcular_imc()```
