@@ -20,9 +20,9 @@ Para calcular el IMC y determinar si es bajo, normal o alto, debe programar dos 
 - ```interpretacion_imc()```:
     - Recibe como argumento un número decimal correspondiente al IMC de una persona.
     - Retorna una hilera de texto con el valor:
-        - "Bajo" si menor que 18.5.
-        - "Normal" si es mayor o igual a 18.5 y menor que 25.
-        - "Alto" si es mayor o igual que 25.
+        - "Bajo" si el IMC menor que 18.5.
+        - "Normal" si el IMC es mayor o igual a 18.5 y menor que 25.
+        - "Alto" si el IMC es mayor o igual que 25.
 
 ### Calificación
 Entrada
