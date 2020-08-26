@@ -2,7 +2,7 @@
 ## Tarea 02
 
 ### Fecha de entrega y entregables
-La fecha y hora límite para la entrega es **jueves 3 de setiembre de 2020 a las 5:00 p.m.**.
+La fecha y hora límite para la entrega es **jueves 3 de setiembre de 2020 a las 5:00 p.m.**
 
 Debe enviarle al profesor por correo electrónico el archivo con el programa en Python resultante (ej. ```imc.py```). **Debe ser un programa que pueda ejecutarse desde la línea de comandos del sistema operativo (i.e. un archivo con extensión .py), no un *notebook* de Jupyter.**
 
@@ -12,7 +12,7 @@ Debe enviarle al profesor por correo electrónico el archivo con el programa en 
 Aplicar varios conceptos de programación en Python cubiertos en clase como tipos de datos, variables, condicionales, ciclos y funciones, entre otros.
 
 ### Desarrollo
-Debe implementar un programa en Python para calcular el índice de masa corporal (IMC) de una persona, con base en los datos de su estatura y peso, los cuales serán provistos por el usuario a través del teclado y la pantalla. El programa debe verificar la calidad de los datos, calcular el IMC y comunicarle al usuario su valor y, además, si es considerado bajo, medio o alto.
+Debe implementar un programa en Python para calcular el índice de masa corporal (IMC) de una persona, con base en los datos de su estatura y peso, los cuales serán provistos por el usuario a través del teclado y la pantalla. El programa debe verificar la calidad de los datos, calcular el IMC, comunicarle al usuario su valor y, además, si es considerado bajo, medio o alto.
 
 El programa debe verificar que tanto el peso como la estatura sean mayores que cero y solicitarle de nuevo estos datos al usuario si alguno no cumple esta condición, hasta que proporcione un valor válido. Si el usuario ingresa un valor que no puede tratarse como un número decimal, el programa debe alertar al usuario de esta situación y finalizar.
 
